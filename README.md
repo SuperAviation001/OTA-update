@@ -4,9 +4,9 @@ Instructions
 
 Clone this repository with the following command...
 ```bash
-git clone -b 15 https://github.com/AndroidOne-Experience/OTA-update.git OTA
+git clone -b 15 https://github.com/SuperAviation001/OTA-update.git OTA
 ```
 Run:
 ```bash
-bash ./OTA/generate_OTA.sh
+python3 ./OTA/generate_OTA.py
 ```
